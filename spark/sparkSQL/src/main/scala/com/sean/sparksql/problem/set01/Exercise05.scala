@@ -11,7 +11,7 @@ object Exercise05 {
 
   def main(args: Array[String]): Unit = {
     val spark: SparkSession = SparkSession.builder()
-      .appName("test05")
+      .appName("Exercise05")
       .master("local")
       .getOrCreate()
     spark.sparkContext.setLogLevel("ERROR")
