@@ -1,0 +1,9 @@
+username,item,price
+zhangsan,A,1
+zhangsan,B,2
+zhangsan,C,3
+zhangsan,D,4
+lisi,A,5
+lisi,B,6
+lisi,C,7
+wangwu,A,8
